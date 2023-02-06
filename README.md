@@ -38,11 +38,3 @@ Some tests and assignments i did for my completely favourite subject at Uni. We 
 
 ## Práctica 8
 ![image](https://user-images.githubusercontent.com/62935664/216948453-4250e027-469f-44da-a08b-683ebab867f5.png)
-
-
-## Práctica 9
-![image](https://user-images.githubusercontent.com/62935664/216948688-1cd706e6-407c-4e8e-9ae8-86c1710b5584.png)
-
-
-## Práctica 10
-![image](https://user-images.githubusercontent.com/62935664/216948736-460efc76-c5c8-4fb5-a327-82d3c21adc74.png)
